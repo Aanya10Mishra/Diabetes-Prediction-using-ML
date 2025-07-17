@@ -1,0 +1,30 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
+.pypirc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Dataset
+diabetes.csv
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+*.egg-info/
+dist/
+build/
